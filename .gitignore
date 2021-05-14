@@ -1,0 +1,6 @@
+
+pylibec/build/
+pylibec/dist/
+pylibec/pylibec.egg-info/
+
+pylibec/pylibec/tool/__pycache__/
